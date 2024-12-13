@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops-bootcamp-krish-naik/projects/datascience-project/mlruns/0/ccaa1f49c74447248543e92277a80da7/artifacts
+end_time: 1734130037124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccaa1f49c74447248543e92277a80da7
+run_name: polite-snail-250
+run_uuid: ccaa1f49c74447248543e92277a80da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734130026795
+status: 3
+tags: []
+user_id: chetu
